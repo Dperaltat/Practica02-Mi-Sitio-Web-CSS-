@@ -1,45 +1,7 @@
-#Cabezera{
-    border-width: 2px;
-    border-color: black;
+#Color{
+    color: crimson;
 }
 
-#MenuPrincipal{
-    border-width: 2px;
-    border-color: black;
-    border-style: outset; 
-    width: 15%;
-    height: 150px;
-    float: left;
-}
-
-body{
-    background-image: url("../Imagenes/fondo.png");
-    background-position: 50% 50%;
-    background-attachment: fixed;  
-}
-
-#Contenido{
-    background-color: cadetblue;
-    border-width: 3px;
-    border-color: black;
-    border-style: double;
-    margin-left: 12px; 
-    width: 70%;
-    padding: 5px 20px;
-    float: left;
-}
-
-.imagen200{
-    width: 200px;
-    height: 200px;
-}
-
-.banner{
-    width: 800px;
-    height: 240px;
-    margin-left: 255px
-}
-
-footer{
-    clear: both;
+#TipoLetra{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
