@@ -1,6 +1,6 @@
 #Derecha{
     background-color: rgb(164, 165, 168);
-    border-width: 1px;
+    border-width: 3px;
     border-style: solid;
     border-color: beige; 
     width: 25%;
@@ -15,14 +15,25 @@
 }
 
 #Contenido{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(60, 83, 110);
     border-width: 3px;
-    border-color: black;
-    border-style: initial;
-    margin-left: 10px; 
+    border-color: antiquewhite;
+    border-style: ridge;
+    margin-left: 7px; 
     width: 55%;
     padding: 5px 20px;
     float: left;
+}
+
+#DerechaCont{
+    background-color: rgb(164, 165, 168);
+    border-width: 3px;
+    border-style: solid;
+    border-color: beige; 
+    width: 25%;
+    position: absolute;
+    right: 0.5%;
+    top: 29%;
 }
 
 .Noticias{

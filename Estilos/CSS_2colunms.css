@@ -6,9 +6,9 @@ body{
 
 #Contenido{
     color: azure;
-    background-color: rgb(83, 83, 83);
+    background-color: #20232A;
     border-width: 3px;
-    border-color: black;
+    border-color: rgb(190, 190, 190);
     border-style: double;
     margin-left: 12px; 
     width: 80%;
@@ -17,7 +17,7 @@ body{
 }
 
 #Tabla{
-    background-color: rgb(163, 94, 94);
+    background-color: rgb(71, 47, 47);
     color: blanchedalmond;
     border-width: 3px;
     border-color: black;
