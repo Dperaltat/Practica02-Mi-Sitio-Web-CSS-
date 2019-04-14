@@ -4,9 +4,10 @@
     border-style: solid;
     border-color: beige; 
     width: 25%;
-    position: absolute;
+    position: static;
     right: 0.5%;
     top: 29%;
+    float: right;
 }
 
 
