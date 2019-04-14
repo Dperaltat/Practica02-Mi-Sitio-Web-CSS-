@@ -1,17 +1,3 @@
-#Cabezera{
-    border-width: 2px;
-    border-color: black;
-}
-
-#MenuPrincipal{
-    border-width: 2px;
-    border-color: black;
-    border-style: outset; 
-    width: 15%;
-    height: 150px;
-    float: left;
-}
-
 body{
     background-image: url("../Imagenes/fondo.png");
     background-position: 50% 50%;
@@ -27,19 +13,4 @@ body{
     width: 70%;
     padding: 5px 20px;
     float: left;
-}
-
-.imagen200{
-    width: 200px;
-    height: 200px;
-}
-
-.banner{
-    width: 800px;
-    height: 240px;
-    margin-left: 255px
-}
-
-footer{
-    clear: both;
 }
