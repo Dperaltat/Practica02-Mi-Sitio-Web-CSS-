@@ -5,12 +5,25 @@ body{
 }
 
 #Contenido{
-    background-color: cadetblue;
+    color: azure;
+    background-color: rgb(83, 83, 83);
     border-width: 3px;
     border-color: black;
     border-style: double;
     margin-left: 12px; 
-    width: 70%;
+    width: 80%;
+    padding: 5px 20px;
+    float: left;
+}
+
+#Tabla{
+    background-color: rgb(163, 94, 94);
+    color: blanchedalmond;
+    border-width: 3px;
+    border-color: black;
+    border-style: inset;
+    margin-left: 12px; 
+    width: 80%;
     padding: 5px 20px;
     float: left;
 }
