@@ -1,5 +1,5 @@
 #Derecha{
-    background-color: rgb(111, 114, 128);
+    background-color: rgb(164, 165, 168);
     border-width: 1px;
     border-style: solid;
     border-color: beige; 
@@ -25,3 +25,8 @@
     float: left;
 }
 
+.Noticias{
+    margin-left: 85px;
+    width: 200px;
+    height: 200px;
+}

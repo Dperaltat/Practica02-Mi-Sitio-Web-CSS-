@@ -10,9 +10,15 @@ body{
 }
 
 a{
-    color: azure;
+    color: azure;  
+}
+a:visited{
+    color: black;    
 }
 
+p{
+    color:#20232A;
+}
 #MenuPrincipal{
     background-color: crimson;
     border-width: 5px;
@@ -24,6 +30,9 @@ a{
 }
 
 .imagen200{
+    border-width: 5px;
+    border-color: #20232A;
+    border-style: ridge;
     width: 200px;
     height: 200px;
 }
